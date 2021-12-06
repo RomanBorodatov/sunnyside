@@ -1,0 +1,11 @@
+{
+  "name": "sunnyside",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/RomanBorodatov/sunnyside.git",
+  "author": "Roman Borodatov <roman.borodatov@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.0.1"
+  }
+}
